@@ -20,4 +20,4 @@ Created an application where, a user will be able to view create and track daily
   
   * Created api an html routes.
 
-  ![workoutracker](./public/assets/workout_tracker.gif)
+  ![workoutracker](./Develop/public/assets/workout_tracker.gif)
