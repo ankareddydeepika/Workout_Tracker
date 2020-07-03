@@ -20,4 +20,6 @@ Created an application where, a user will be able to view create and track daily
   
   * Created api an html routes.
 
-  ![workoutracker](./Develop/public/assets/workout_tracker.gif)
+  ![workoutracker](./public/assets/workout_tracker.gif)
+
+  * Deployed app : https://workout-tracker77.herokuapp.com/
